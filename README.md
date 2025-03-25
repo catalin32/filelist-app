@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://filelist.ro/">
+  <a "https://filelist.net
     <img alt="Filelist" src="https://i.epvpimg.com/TI5dbab.png">
   </a>
 </p>
 
-# 💭 About
+# 💭 About  2025
 
 > **React Native App** based on **Filelist API**. Filelist is a private romanian torrent tracker that recently developed an API that allows its **registered users** to get information about torrents using their **Username** and **Passkey**.
 
@@ -26,11 +26,6 @@
 
 > Layout responsiveness using **rem** units w/ **react-native-extended-stylesheet**
 
-> API Error handling for all **Error codes** listed at the bottom of the **API description**
-
-# ![Google Play Logo](https://www.gstatic.com/android/market_images/web/favicon_v2.ico "Google Play Logo") Google Play Store
-**[Filelist App](https://play.google.com/store/apps/details?id=com.baderproductions.fl)**
-
 # 📋 API description
 
 ```sh
@@ -50,10 +45,6 @@
 
  # Parameters & endpoints
 
- Parameters:
-   action
- Valid values: search-torrents, latest-torrents
- Example: https://filelist.io/api.php?username=[USERNAME]&passkey=[PASSKEY]&action=search-torrents
 
  Additional parameters for action=search-torrents
    type               Valid values: imdb, name
@@ -125,6 +116,3 @@
 
 ```
 
-## :scroll: License
-
-MIT © [BADERproductions.co.uk](https://baderproductions.co.uk/)
