@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://filelist.io/">
+  <a href="https://filelist.ro/">
     <img alt="Filelist" src="https://i.epvpimg.com/TI5dbab.png">
   </a>
 </p>
@@ -14,7 +14,7 @@
 
 > State management w/ **Redux Ducks**
 
-> Language support: **Romanian & English**
+> Language support: **Romanian 
 
 > Custom function for handling **font size responsiveness**
 
@@ -44,8 +44,8 @@
 # Authentication
 
  Parameters:
-   username
-   passkey
+   username Test40
+   passkey   Test225
  Example: https://filelist.io/api.php?username=[USERNAME]&passkey=[PASSKEY]
 
  # Parameters & endpoints
